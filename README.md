@@ -13,7 +13,7 @@
 |------------------------------|------------------------|------------------------|
 | VITE_TEXT_TITLE              | 展示文字的主标题（自动大写）             | a.com              |
 | VITE_TEXT                    | 展示的文字内容             | is coming soon.        |
-| VITE_ICP_CODE                | ICP备案号              | 浙B2-20080101          |
+| VITE_ICP_CODE                | ICP备案号              | 京ICP备2099010234号-1         |
 | VITE_PUBLIC_SECURITY_FULLCODE| 公安备案号             | 京公网安备xxxxx号       |
 | VITE_TITLE                   | 页面标题（浏览器tab）  | a.com              |
 
