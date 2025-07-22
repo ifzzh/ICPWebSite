@@ -45,6 +45,8 @@
 5. 部署完成后即可访问分配的域名。
 
 ## 部署到 EdgeOne
-1. 同Vercel，采用EO默认分配的即可
+同Vercel，采用EO默认分配的即可，下面一键部署会强制要求填写所有环境变量，如果想DIY的话就自行在EO导入仓库，不要使用一键部署。
+
+[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://console.cloud.tencent.com/edgeone/pages/new?repository-url=https://github.com/ifzzh/ICPWebSite&env=VITE_ICP_CODE,VITE_PUBLIC_SECURITY_FULLCODE,VITE_TITLE,VITE_TEXT_TITLE,VITE_TEXT)
 
 ---
