@@ -1,5 +1,7 @@
 # ICP备案页面
 
+> 本项目基于 [Steve5wutongyu6/ICPWebSite](https://github.com/Steve5wutongyu6/ICPWebSite) 修改，并适配了 EdgeOne 一键部署，致谢原作者大佬的开源贡献。
+
 > 本项目为ICP备案/公安备案展示页，支持自定义主标题、副标题和备案信息，适用于合规要求。
 
 ## 功能简介
@@ -13,7 +15,7 @@
 |------------------------------|------------------------|------------------------|
 | VITE_TEXT_TITLE              | 展示文字的主标题（自动大写）             | a.com              |
 | VITE_TEXT                    | 展示的文字内容             | is coming soon.        |
-| VITE_ICP_CODE                | ICP备案号              | 京ICP备2099010234号-1         |
+| VITE_ICP_CODE                | ICP备案号              | 浙B2-20080101          |
 | VITE_PUBLIC_SECURITY_FULLCODE| 公安备案号             | 京公网安备xxxxx号       |
 | VITE_TITLE                   | 页面标题（浏览器tab）  | a.com              |
 
@@ -44,6 +46,5 @@
 
 ## 部署到 EdgeOne
 1. 同Vercel，采用EO默认分配的即可
-
 
 ---
