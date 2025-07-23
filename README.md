@@ -35,7 +35,6 @@
    ```bash
    npm run build
    ```
-   构建结果在 `dist/` 目录，可直接部署到静态服务器。
 
 ## 部署到 Vercel
 1. 访问 [Vercel 官网](https://vercel.com/) 并注册账号。
